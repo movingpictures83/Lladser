@@ -1,0 +1,2 @@
+Prefix plugins/Lladser/example/
+Plugin Lladser inputfile table.qza outputfile alpha_diversity.qza
